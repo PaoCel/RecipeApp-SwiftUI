@@ -32,7 +32,17 @@ A simple iOS recipe browsing app built with SwiftUI as part of my iOS developmen
 
 ## Screenshots
 
+### Recipe list
+
 ![Recipe list](Screenshots/recipe-list.png)
+
+### Real-time search
+
+![Recipe search](Screenshots/recipe-search.png)
+
+### Recipe detail
+
+![Recipe detail](Screenshots/recipe-detail.png)
 
 ## Course Context
 
@@ -48,4 +58,3 @@ The local recipe images were downloaded from Unsplash for this educational proje
 - [Pancakes](https://images.unsplash.com/photo-1528207776546-365bb710ee93)
 - [Ramen](https://images.unsplash.com/photo-1569718212165-3a8278d5f624)
 - [Avocado toast](https://images.unsplash.com/photo-1541519227354-08fa5d50c44d)
-
