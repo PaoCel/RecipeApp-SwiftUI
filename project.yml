@@ -1,0 +1,25 @@
+name: RecipeApp
+options:
+  bundleIdPrefix: com.example
+settings:
+  base:
+    IPHONEOS_DEPLOYMENT_TARGET: 17.0
+    SWIFT_VERSION: 5.0
+targets:
+  RecipeApp:
+    type: application
+    platform: iOS
+    sources:
+      - RecipeApp
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.example.RecipeApp
+        GENERATE_INFOPLIST_FILE: YES
+        TARGETED_DEVICE_FAMILY: 1
+        ASSETCATALOG_COMPILER_APPICON_NAME: ""
+    info:
+      path: RecipeApp/Info.plist
+      properties:
+        CFBundleDisplayName: RecipeApp
+        UILaunchScreen: {}
+
