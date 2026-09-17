@@ -18,3 +18,8 @@ Package.resolved
 *.tmp
 *.swp
 
+# Local working notes, not part of the project
+CLAUDE.md
+AGENTS.md
+.claude/
+.codex/
